@@ -4,4 +4,4 @@ python-multipart==0.0.9
 openai-whisper==20231117
 pydub==0.25.1
 python-dotenv==1.0.1
-supabase-py==0.12.6
+supabase==2.31.0
